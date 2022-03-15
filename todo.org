@@ -1,0 +1,11 @@
+* %^{Task}
+:PROPERTIES:
+:PROJECT:  %^{Project}
+:CREATED_AT: %T
+:END:
+
+#+begin_quote
+%i
+#+end_quote
+
+%a

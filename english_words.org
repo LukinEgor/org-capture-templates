@@ -1,0 +1,9 @@
+* %i
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: english words
+:END:
+** Front
+%i
+** Back
+%(replace-regexp-in-string "*" "\n" (google-translate-translate '"en" '"ru" "%i" 'echo-area))%

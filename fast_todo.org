@@ -1,0 +1,5 @@
+* %^{Task}
+:PROPERTIES:
+:CREATED_AT: %T
+:ID:      %(org-id-new)
+:END:
